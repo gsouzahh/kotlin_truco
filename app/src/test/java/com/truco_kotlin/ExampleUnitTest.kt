@@ -1,4 +1,4 @@
-package com.androidstudio.truco
+package com.truco_kotlin
 
 import org.junit.Test
 
